@@ -1,1 +1,1 @@
-# workshop-javafx-jdbc
+# Workshop JavaFX JDBC
